@@ -112,13 +112,14 @@ h1 {
 .pizza-item--name {
     font-size:20px;
     font-weight: bold;
-    color:#000;
+    color:#353434;
     margin-top:5px;
 }
 .pizza-item--desc {
     font-size:13px;
-    color:#555;
+    color:#070000;
     margin-top:10px;
+    font-weight: bold;
 }
 
 .pizzaWindowArea {
